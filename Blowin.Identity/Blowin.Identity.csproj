@@ -3,6 +3,11 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
         <RootNamespace>Blowin</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Blowin.Identity</Title>
+        <PackageProjectUrl>https://github.com/blowin/Blowin.Identity</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/blowin/Blowin.Identity</RepositoryUrl>
+        <PackageTags>util misc</PackageTags>
     </PropertyGroup>
 
 </Project>
