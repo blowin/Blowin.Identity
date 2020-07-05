@@ -2,7 +2,7 @@
 
 namespace Blowin
 {
-    public static class IdentityInt
+    public static partial class Identity
     {
         public static NullableIdentityInt<T> Nullable<T>(int? id) => (NullableIdentityInt<T>)id;
         public static NullableIdentityInt<T> Nullable<T>(int id) => (NullableIdentityInt<T>)id;
