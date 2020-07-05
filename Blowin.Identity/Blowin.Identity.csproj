@@ -8,6 +8,8 @@
         <PackageProjectUrl>https://github.com/blowin/Blowin.Identity</PackageProjectUrl>
         <RepositoryUrl>https://github.com/blowin/Blowin.Identity</RepositoryUrl>
         <PackageTags>util misc</PackageTags>
+        <PackageVersion>1.0.1</PackageVersion>
+        <Authors>Blowin</Authors>
     </PropertyGroup>
 
 </Project>
